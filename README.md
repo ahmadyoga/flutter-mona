@@ -1,6 +1,5 @@
 # flutter_mona
 
-A new Flutter project.
 preview aplikasi
 
 ![Screenshot_20221027_150737](https://user-images.githubusercontent.com/45621594/198247844-8b8a5f87-d277-4821-b218-cb5bfda12121.jpg) ![Screenshot_20221027_150804](https://user-images.githubusercontent.com/45621594/198247857-fe96a388-da84-45c7-ac6c-dc1706450222.jpg)
